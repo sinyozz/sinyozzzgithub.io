@@ -63,8 +63,8 @@ body {
   overflow:auto;
 }
 
-.raton {
-  background:url(raton.jpg);
+ .bg {
+  background:url(bg.jpg);
   background-size:cover;
   background-position:center center;
   overflow:hidden;
