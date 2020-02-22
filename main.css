@@ -64,7 +64,7 @@ body {
 }
 
  .bg {
-  background:url(bg.jpg);
+  background:url(raton.jpg);
   background-size:cover;
   background-position:center center;
   overflow:hidden;
@@ -106,7 +106,7 @@ body {
   position:absolute;
   left:144px;
   top:210px;
-  background:url(siny.jpeg);
+  background:url(siny1.jpeg);
   background-size:cover;
   background-position:center center;
   box-shadow: 5px 10px 20px rgba(100,100,100,.3);
